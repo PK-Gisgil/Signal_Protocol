@@ -9,11 +9,7 @@ For a secure Version see Signals Implementation.
 
 ## Installation
 
-Use git to clone this repository.
-
-```bash
-pip install foobar
-```
+Use git to fork and clone this repository.
 
 ## Usage
 
